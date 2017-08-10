@@ -1,0 +1,6 @@
+D:\Code\C-sharp-fundamentals-Udemy\Data_Types_Strings\Data_Types_Strings\bin\Debug\Operators.exe.config
+D:\Code\C-sharp-fundamentals-Udemy\Data_Types_Strings\Data_Types_Strings\bin\Debug\Operators.exe
+D:\Code\C-sharp-fundamentals-Udemy\Data_Types_Strings\Data_Types_Strings\bin\Debug\Operators.pdb
+D:\Code\C-sharp-fundamentals-Udemy\Data_Types_Strings\Data_Types_Strings\obj\Debug\Data_Types_Strings.csprojResolveAssemblyReference.cache
+D:\Code\C-sharp-fundamentals-Udemy\Data_Types_Strings\Data_Types_Strings\obj\Debug\Operators.exe
+D:\Code\C-sharp-fundamentals-Udemy\Data_Types_Strings\Data_Types_Strings\obj\Debug\Operators.pdb

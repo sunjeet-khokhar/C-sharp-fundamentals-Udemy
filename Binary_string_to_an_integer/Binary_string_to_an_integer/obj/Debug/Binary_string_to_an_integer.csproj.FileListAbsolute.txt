@@ -1,0 +1,6 @@
+D:\Code\C-sharp-fundamentals-Udemy\Binary_string_to_an_integer\Binary_string_to_an_integer\obj\Debug\Binary_string_to_an_integer.csprojResolveAssemblyReference.cache
+D:\Code\C-sharp-fundamentals-Udemy\Binary_string_to_an_integer\Binary_string_to_an_integer\bin\Debug\Binary_string_to_an_integer.exe.config
+D:\Code\C-sharp-fundamentals-Udemy\Binary_string_to_an_integer\Binary_string_to_an_integer\bin\Debug\Binary_string_to_an_integer.exe
+D:\Code\C-sharp-fundamentals-Udemy\Binary_string_to_an_integer\Binary_string_to_an_integer\bin\Debug\Binary_string_to_an_integer.pdb
+D:\Code\C-sharp-fundamentals-Udemy\Binary_string_to_an_integer\Binary_string_to_an_integer\obj\Debug\Binary_string_to_an_integer.exe
+D:\Code\C-sharp-fundamentals-Udemy\Binary_string_to_an_integer\Binary_string_to_an_integer\obj\Debug\Binary_string_to_an_integer.pdb
