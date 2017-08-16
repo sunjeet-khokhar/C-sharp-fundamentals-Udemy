@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frequnecy_of_chars_in_array", "Frequnecy_of_chars_in_array\Frequnecy_of_chars_in_array.csproj", "{933670E0-0D34-43D9-8D64-E8A271161BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933670E0-0D34-43D9-8D64-E8A271161BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933670E0-0D34-43D9-8D64-E8A271161BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933670E0-0D34-43D9-8D64-E8A271161BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933670E0-0D34-43D9-8D64-E8A271161BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

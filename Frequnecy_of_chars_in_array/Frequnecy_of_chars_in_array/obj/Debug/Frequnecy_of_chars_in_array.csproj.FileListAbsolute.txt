@@ -1,0 +1,6 @@
+D:\Code\C-sharp-fundamentals-Udemy\Frequnecy_of_chars_in_array\Frequnecy_of_chars_in_array\bin\Debug\Frequnecy_of_chars_in_array.exe.config
+D:\Code\C-sharp-fundamentals-Udemy\Frequnecy_of_chars_in_array\Frequnecy_of_chars_in_array\bin\Debug\Frequnecy_of_chars_in_array.exe
+D:\Code\C-sharp-fundamentals-Udemy\Frequnecy_of_chars_in_array\Frequnecy_of_chars_in_array\bin\Debug\Frequnecy_of_chars_in_array.pdb
+D:\Code\C-sharp-fundamentals-Udemy\Frequnecy_of_chars_in_array\Frequnecy_of_chars_in_array\obj\Debug\Frequnecy_of_chars_in_array.csprojResolveAssemblyReference.cache
+D:\Code\C-sharp-fundamentals-Udemy\Frequnecy_of_chars_in_array\Frequnecy_of_chars_in_array\obj\Debug\Frequnecy_of_chars_in_array.exe
+D:\Code\C-sharp-fundamentals-Udemy\Frequnecy_of_chars_in_array\Frequnecy_of_chars_in_array\obj\Debug\Frequnecy_of_chars_in_array.pdb
