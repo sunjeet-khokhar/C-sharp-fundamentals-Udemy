@@ -1,0 +1,6 @@
+D:\Code\C-sharp-fundamentals-Udemy\Mathematical_Inverse\Mathematical_Inverse\bin\Debug\Mathematical_Inverse.exe.config
+D:\Code\C-sharp-fundamentals-Udemy\Mathematical_Inverse\Mathematical_Inverse\bin\Debug\Mathematical_Inverse.exe
+D:\Code\C-sharp-fundamentals-Udemy\Mathematical_Inverse\Mathematical_Inverse\bin\Debug\Mathematical_Inverse.pdb
+D:\Code\C-sharp-fundamentals-Udemy\Mathematical_Inverse\Mathematical_Inverse\obj\Debug\Mathematical_Inverse.csprojResolveAssemblyReference.cache
+D:\Code\C-sharp-fundamentals-Udemy\Mathematical_Inverse\Mathematical_Inverse\obj\Debug\Mathematical_Inverse.exe
+D:\Code\C-sharp-fundamentals-Udemy\Mathematical_Inverse\Mathematical_Inverse\obj\Debug\Mathematical_Inverse.pdb
